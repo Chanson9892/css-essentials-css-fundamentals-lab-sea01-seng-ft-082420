@@ -7,11 +7,17 @@ h1 {
   text-align: center;
 }
 
-img#featured-property {
-  align: center;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-a {
+nav a {
   padding: 10px;
   background: gray;
+}
+
+nav {
+  text-align: center;
 }
