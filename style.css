@@ -8,5 +8,11 @@ h1 {
 }
 
 img#featured-property {
-  align-items: center;
+  align: center;
 }
+
+a {
+  padding: 10px;
+  background: gray;
+}
+
